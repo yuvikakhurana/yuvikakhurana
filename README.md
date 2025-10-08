@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#f4b400">Yuvika Khurana</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f4b400">Yuvika</span></h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | CS @ Purdue University</h3>
 
 <p align="center">
@@ -22,8 +22,7 @@
 ### 💼 Experience
 
 **💠 Google – Software Engineering Intern (Cloud Directory Team, Summer 2025)**
-Built scalable Java & Python systems for large-scale data migration (~28M records), contributing to platform reliability.
-Delivered two core projects and received a **performance bonus** for engineering excellence.
+Built scalable Java & Python systems for large-scale data migration, contributing to platform reliability.
 
 **🧩 Amazon – SDE Intern (Digital Acceleration Team, Fall 2024)**
 Integrated **AWS OpenSearch** with DynamoDB and built scalable Java APIs & React front-end for an internal service.
