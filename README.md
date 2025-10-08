@@ -1,4 +1,3 @@
-## Hi there, I'm Yuvika 👋
 <h1 align="center">Hey there 👋, I'm <span style="color:#f4b400">Yuvika Khurana</span></h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | CS @ Purdue University</h3>
 
@@ -9,65 +8,65 @@
 </p>
 
 ---
- 
-🌟 About Me
-🎓 Senior at Purdue University, majoring in Computer Science (Software Engineering concentration)
-💻 Passionate about building scalable systems, cloud applications, and developer tools
-🧠 Experienced in Java, Python, TypeScript, AWS, and React
-☕ Fueled by hot coffee (with oat milk!) and curiosity
-🌱 Currently exploring distributed systems and backend architecture
+
+### 🌟 About Me
+
+* 🎓 Senior at **Purdue University**, majoring in **Computer Science (Software Engineering concentration)**
+* 💻 Passionate about **building scalable systems, cloud applications, and developer tools**
+* 🧠 Experienced in **Java, Python, TypeScript, AWS, and React**
+* 🍵 Fueled by matcha and curiosity
+* 🌱 Currently exploring distributed systems and backend architecture
+
 ---
 
 ### 💼 Experience
 
-I’ve had the opportunity to work across multiple teams and technologies during my internships:
+**💠 Google – Software Engineering Intern (Cloud Directory Team, Summer 2025)**
+Built scalable Java & Python systems for large-scale data migration (~28M records), contributing to platform reliability.
+Delivered two core projects and received a **performance bonus** for engineering excellence.
 
-* **Google (Cloud Directory Team, Summer 2025)**
-  Designed and built Java and Python systems for large-scale data migrations and infrastructure reliability.
-  Delivered multiple core projects and earned a **performance bonus** for engineering impact.
+**🧩 Amazon – SDE Intern (Digital Acceleration Team, Fall 2024)**
+Integrated **AWS OpenSearch** with DynamoDB and built scalable Java APIs & React front-end for an internal service.
+Anticipated **35% increase in engagement** with redesigned UX.
 
-* **Amazon (Digital Acceleration Team, Fall 2024)**
-  Integrated AWS OpenSearch with DynamoDB, built scalable Java APIs, and revamped the React/TypeScript frontend.
-  Improved data retrieval efficiency and contributed to a 35% projected increase in engagement.
+**🔒 Google – Software Engineering Intern (Android Privacy Sandbox, Summer 2024)**
+Created a **C++/Python automation tool** bridging Google’s infrastructures—saving months of engineering time.
+Implemented SQL dashboards, analysis RPCs, and a diffing system for efficient data validation.
 
-* **Google (Android Privacy Sandbox, Summer 2024)**
-  Created a C++/Python internal tool automating analysis pipelines — saving months of engineering effort.
-  Authored detailed design docs and implemented comprehensive testing across frameworks.
-
-* **Teaching Assistant, Purdue CS Department**
-  Led lab sessions for 50+ students and built a collaborative learning environment.
+**👩‍🏫 Purdue University – Teaching Assistant**
+Led lab sessions of 50+ students for Object-Oriented Programming in Java; managed 3 TAs and standardized grading.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
-**Languages:** Java, Python, C++, C, JavaScript, TypeScript, SQL
-**Frameworks & Tools:** React, Node.js, Express, Redux, AWS, MongoDB, Qt, Git
-**Areas of Interest:** Full-stack engineering, cloud computing, and systems programming
-
----
-
-### 📫 Let’s Connect
-
-* 🌐 [yuvikakhurana.com](https://yuvikakhurana.com)
-* 💼 [linkedin.com/in/yuvika-khurana](https://www.linkedin.com/in/yuvika-khurana)
-* 🧑‍💻 [github.com/yuvikakhurana](https://github.com/yuvikakhurana)
-* ✉️ [ykhuran@purdue.edu](mailto:ykhuran@purdue.edu)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,react,typescript,javascript,aws,nodejs,express,mongodb,git,linux" />
+</p>
 
 ---
 
-⭐️ *“Code with clarity. Design with empathy.”*
-<!--
-**yuvikakhurana/yuvikakhurana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuvikakhurana&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikakhurana&layout=compact&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://yuvikakhurana.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yuvika-khurana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ykhuran@purdue.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvikakhurana&label=Profile%20Views&color=0e75b6&style=flat" alt="yuvikakhurana" />  
+</p>
+
+<p align="center">✨ “Code with clarity. Design with empathy.” ✨</p>
