@@ -63,4 +63,4 @@ Led lab sessions of 50+ students for Object-Oriented Programming in Java; manage
 
 ---
 
-<p align="center">✨ “Code with clarity. Design with empathy.” ✨</p>
+<p align="center">✨ “Stay curious, keep building.” ✨</p>
