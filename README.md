@@ -21,18 +21,18 @@
 
 ### 💼 Experience
 
-**💠 Google – Software Engineering Intern (Cloud Directory Team, Summer 2025)**
+**💠 Google – Software Engineering Intern (Cloud Directory Team, Summer 2025)**<br>
 Built scalable Java & Python systems for large-scale data migration, contributing to platform reliability.
 
-**🧩 Amazon – SDE Intern (Digital Acceleration Team, Fall 2024)**
+**🧩 Amazon – SDE Intern (Digital Acceleration Team, Fall 2024)**<br>
 Integrated **AWS OpenSearch** with DynamoDB and built scalable Java APIs & React front-end for an internal service.
 Anticipated **35% increase in engagement** with redesigned UX.
 
-**🔒 Google – Software Engineering Intern (Android Privacy Sandbox, Summer 2024)**
+**🔒 Google – Software Engineering Intern (Android Privacy Sandbox, Summer 2024)**<br>
 Created a **C++/Python automation tool** bridging Google’s infrastructures—saving months of engineering time.
 Implemented SQL dashboards, analysis RPCs, and a diffing system for efficient data validation.
 
-**👩‍🏫 Purdue University – Teaching Assistant**
+**👩‍🏫 Purdue University – Teaching Assistant**<br>
 Led lab sessions of 50+ students for Object-Oriented Programming in Java; managed 3 TAs and standardized grading.
 
 ---
