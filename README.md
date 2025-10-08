@@ -49,7 +49,6 @@ Led lab sessions of 50+ students for Object-Oriented Programming in Java; manage
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuvikakhurana&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvikakhurana&layout=compact&theme=radical" />
 </p>
 
@@ -64,9 +63,5 @@ Led lab sessions of 50+ students for Object-Oriented Programming in Java; manage
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvikakhurana&label=Profile%20Views&color=0e75b6&style=flat" alt="yuvikakhurana" />  
-</p>
 
 <p align="center">✨ “Code with clarity. Design with empathy.” ✨</p>
